@@ -7,7 +7,7 @@
 ```
 >> apt update -y && apt upgrade -y
 >> pkg install git python-pip 
->> git clone https://github.com/RozhakXD/Threads
+>> git clone https://github.com/Ajinocounter47/Threads-Main.git
 >> cd "Threads"
 >> python -m pip install --upgrade pip
 >> python -m pip install -r requirements.txt
